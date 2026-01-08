@@ -1,0 +1,24 @@
+* {
+    font-family: cursive;
+}
+body {
+    background-color: skyblue;
+}
+header {
+    border: 3px solid black;
+    background-color: chocolate;
+    position: sticky;
+    top: 0;
+}
+nav {
+    padding: 10px;
+    text-align: center;
+}
+strong{
+    color: red;
+}
+.title {
+    text-align: center;
+    size: 50px;
+    color: color(from blue srgb 0 0 100);
+}
